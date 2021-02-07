@@ -1,0 +1,74 @@
+@import 'styles/colors.scss';
+
+.PersonCard {
+  width: 350px;
+  height: 320px;
+  padding: 20px;
+  overflow: hidden;
+  border-radius: 3px;
+  background-color: #fbfbfb;
+
+  &-ProfileWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    &-Profile {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+
+      &-Image {
+        width: 100px;
+        width: 100px;
+        object-fit: cover;
+        border-radius: 50%;
+      }
+
+      &-Name {
+        font-size: 2rem;
+        font-weight: bold;
+        margin-left: 20px;
+        color: $purple_2;
+      }
+    }
+
+    &-Generation {
+      font-size: 1.25rem;
+      color: $gray_4;
+    }
+  }
+
+  &-Detail {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+
+
+    &-Club {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+
+      &>* {
+        margin-right: 5px;
+      }
+    }
+
+    &-URL {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+
+      &>* {
+        margin-left: 5px;
+      }
+    }
+  }
+
+  &-Intro {
+    margin-top: 30px;
+    color: $purple_2;
+  }
+}

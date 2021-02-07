@@ -1,0 +1,11 @@
+@import 'styles/colors.scss';
+
+.ClubTag {
+  display: inline-block;
+  background-color: $purple_3;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 10px;
+  font-size: 12px;
+  font-weight: bold;
+}

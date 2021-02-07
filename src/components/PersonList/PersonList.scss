@@ -1,0 +1,9 @@
+.PersonList {
+  width: 90%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  row-gap: 20px;
+  column-gap: 20px;
+  justify-items: center;
+}
