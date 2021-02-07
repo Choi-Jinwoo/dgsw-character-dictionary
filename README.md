@@ -13,7 +13,7 @@
 ```json
 {
   "name": "이름 (필수)",
-  "generation": 기수 (필수, 숫자),
+  "generation": "기수 (필수, 숫자)",
   "profile_image": "프로필 이미지 (옵션 - null or 빈 문자열, Github 이슈와 같은 방법을 통해 호스팅된 이미지의 URL이 등록되어야 합니다)",
   "intro": "간단 소개 (필수)",
   "club": [
