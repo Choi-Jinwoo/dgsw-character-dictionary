@@ -1,46 +1,29 @@
-# Getting Started with Create React App
+# 대소고인
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> 대소고인은 대구소프트웨어고등학교를 거친 많은 학생분들을 확인할 수 있는 사이트입니다.
 
-## Available Scripts
+### 본인 등록 방법
 
-In the project directory, you can run:
+1. 해당 저장소를 `fork`합니다.
+2. `src/data/info.json`파일의 가장 하단에 본인의 정보를 입력합니다
+3. 본 저장소로 `PR`을 요청합니다.
+4. 확인 후 PR이 병합되며 반영됩니다(시간이 소요됩니다)
 
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### info.json 설명
+```json
+{
+  "name": "이름 (필수)",
+  "generation": 기수 (필수, 숫자),
+  "profile_image": "프로필 이미지 (옵션 - null or 빈 문자열, Github 이슈와 같은 방법을 통해 호스팅된 이미지의 URL이 등록되어야 합니다)",
+  "intro": "간단 소개 (필수)",
+  "club": [
+    "활동",
+    "동아리를",
+    "배열로 (옵션 - 빈 배열)",
+  ],
+  "website": "개인 웹사이트 (옵션 - null or 빈 문자열)",
+  "blog": "개인 블로그 (옵션 - null or 빈 문자열)",
+  "github": "Github (옵션 - null or 빈 문자열)",
+  "sns": "개인 SNS (옵션 - null or 빈 문자열)"
+}
+```
