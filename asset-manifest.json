@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dgsw-character-dictionary/static/css/main.f2f9a338.chunk.css",
+    "main.js": "/dgsw-character-dictionary/static/js/main.5efe0cad.chunk.js",
+    "main.js.map": "/dgsw-character-dictionary/static/js/main.5efe0cad.chunk.js.map",
+    "runtime-main.js": "/dgsw-character-dictionary/static/js/runtime-main.a8c09771.js",
+    "runtime-main.js.map": "/dgsw-character-dictionary/static/js/runtime-main.a8c09771.js.map",
+    "static/js/2.919f9fa8.chunk.js": "/dgsw-character-dictionary/static/js/2.919f9fa8.chunk.js",
+    "static/js/2.919f9fa8.chunk.js.map": "/dgsw-character-dictionary/static/js/2.919f9fa8.chunk.js.map",
+    "static/js/3.6323c94d.chunk.js": "/dgsw-character-dictionary/static/js/3.6323c94d.chunk.js",
+    "static/js/3.6323c94d.chunk.js.map": "/dgsw-character-dictionary/static/js/3.6323c94d.chunk.js.map",
+    "index.html": "/dgsw-character-dictionary/index.html",
+    "static/css/main.f2f9a338.chunk.css.map": "/dgsw-character-dictionary/static/css/main.f2f9a338.chunk.css.map",
+    "static/js/2.919f9fa8.chunk.js.LICENSE.txt": "/dgsw-character-dictionary/static/js/2.919f9fa8.chunk.js.LICENSE.txt",
+    "static/media/basic.ceea5a5c.png": "/dgsw-character-dictionary/static/media/basic.ceea5a5c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8c09771.js",
+    "static/js/2.919f9fa8.chunk.js",
+    "static/css/main.f2f9a338.chunk.css",
+    "static/js/main.5efe0cad.chunk.js"
+  ]
+}
