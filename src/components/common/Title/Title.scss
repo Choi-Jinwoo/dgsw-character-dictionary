@@ -1,0 +1,31 @@
+@import 'styles/colors.scss';
+
+.Title {
+  background-color: $purple_3;
+  color: #ffffff;
+  padding: 50px 0;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
+
+  &-Content {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 70%;
+
+    h2, p {
+      margin: 0;
+      padding: 0 10px;
+    }
+
+    h2 {
+      font-size: 36px;
+      padding-left: 0;
+    }
+
+    p {
+      font-size: 14px;
+    }
+  }
+}
