@@ -67,5 +67,18 @@
     "blog": "https://blog.naver.com/kkh03kkh",
     "github": "https://github.com/KyungHoon0126",
     "sns": ""
+  },
+  {
+    "name": "김주엽",
+    "generation": 4,
+    "profile_image": "https://user-images.githubusercontent.com/49600974/107215882-4a831f80-6a4f-11eb-8602-e0a84886f024.jpeg",
+    "intro": "새로운 시도와 도전은 과감히 하지만 소신있게",
+    "club": [
+      "B1ND"
+    ],
+    "website": "https://bit.ly/37gkD3M",
+    "blog": "https://juyeop.tistory.com",
+    "github": "https://github.com/Kim-Ju-Yeop",
+    "sns": "https://www.instagram.com/juyeop03/"
   }
 ]
