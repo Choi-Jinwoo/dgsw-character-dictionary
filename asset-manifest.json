@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/dgsw-character-dictionary/static/css/main.d1f605f3.chunk.css",
-    "main.js": "/dgsw-character-dictionary/static/js/main.b009d2ad.chunk.js",
-    "main.js.map": "/dgsw-character-dictionary/static/js/main.b009d2ad.chunk.js.map",
-    "runtime-main.js": "/dgsw-character-dictionary/static/js/runtime-main.41e8e50a.js",
-    "runtime-main.js.map": "/dgsw-character-dictionary/static/js/runtime-main.41e8e50a.js.map",
-    "static/js/2.0ec67fc7.chunk.js": "/dgsw-character-dictionary/static/js/2.0ec67fc7.chunk.js",
-    "static/js/2.0ec67fc7.chunk.js.map": "/dgsw-character-dictionary/static/js/2.0ec67fc7.chunk.js.map",
-    "static/js/3.761fa8df.chunk.js": "/dgsw-character-dictionary/static/js/3.761fa8df.chunk.js",
-    "static/js/3.761fa8df.chunk.js.map": "/dgsw-character-dictionary/static/js/3.761fa8df.chunk.js.map",
-    "index.html": "/dgsw-character-dictionary/index.html",
-    "static/css/main.d1f605f3.chunk.css.map": "/dgsw-character-dictionary/static/css/main.d1f605f3.chunk.css.map",
-    "static/js/2.0ec67fc7.chunk.js.LICENSE.txt": "/dgsw-character-dictionary/static/js/2.0ec67fc7.chunk.js.LICENSE.txt",
-    "static/media/basic.ceea5a5c.png": "/dgsw-character-dictionary/static/media/basic.ceea5a5c.png"
+    "main.css": "/static/css/main.d1f605f3.chunk.css",
+    "main.js": "/static/js/main.b009d2ad.chunk.js",
+    "main.js.map": "/static/js/main.b009d2ad.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.32bba822.js",
+    "runtime-main.js.map": "/static/js/runtime-main.32bba822.js.map",
+    "static/js/2.0ec67fc7.chunk.js": "/static/js/2.0ec67fc7.chunk.js",
+    "static/js/2.0ec67fc7.chunk.js.map": "/static/js/2.0ec67fc7.chunk.js.map",
+    "static/js/3.761fa8df.chunk.js": "/static/js/3.761fa8df.chunk.js",
+    "static/js/3.761fa8df.chunk.js.map": "/static/js/3.761fa8df.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d1f605f3.chunk.css.map": "/static/css/main.d1f605f3.chunk.css.map",
+    "static/js/2.0ec67fc7.chunk.js.LICENSE.txt": "/static/js/2.0ec67fc7.chunk.js.LICENSE.txt",
+    "static/media/basic.ceea5a5c.png": "/static/media/basic.ceea5a5c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.41e8e50a.js",
+    "static/js/runtime-main.32bba822.js",
     "static/js/2.0ec67fc7.chunk.js",
     "static/css/main.d1f605f3.chunk.css",
     "static/js/main.b009d2ad.chunk.js"
