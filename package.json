@@ -2,7 +2,7 @@
   "name": "dgsw_character-dictionary",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Choi-Jinwoo.github.io/dgsw-character-dictionary",
+  "homepage": "http://daesogoin.site",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
