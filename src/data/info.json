@@ -80,5 +80,20 @@
     "blog": "https://juyeop.tistory.com",
     "github": "https://github.com/Kim-Ju-Yeop",
     "sns": "https://www.instagram.com/juyeop03/"
-  }
+  },
+  
+  {
+    "name": "권용빈",
+    "generation": 4,
+    "profile_image": "https://avatars.githubusercontent.com/u/50941453?s=400&u=7b82cfdd0d30e6b117c765aac24f9480c96d20e7&v=4",
+    "intro": "Whenever, Wherever, Whatever.",
+    "club": [
+      "B1ND",
+      "SCB"
+    ],
+    "website": "https:/yiyb0603.github.io/my_portfolio",
+    "blog": "https://velog.io/@yiyb0603",
+    "github": "https://github.com/yiyb0603",
+    "sns": "https://www.facebook.com/profile.php?id=100010933171210"
+  },
 ]
