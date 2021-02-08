@@ -61,7 +61,7 @@ const InfoBox = () => {
           }}>사용자 정보 추가, 수정 및 삭제는 <a href="http://facebook.com/ChoiJinwoo03/">제작자</a>로 요청해주세요</li>
           <li style={{
             padding: '10px',
-          }}>자세한 등록 사항은 <a href="http://github.com/Choi-Jinwoo/dgsw-character-dictionary/README.md">이곳</a>을 참고해주세요</li>
+          }}>자세한 등록 사항은 <a href="https://github.com/Choi-Jinwoo/dgsw-character-dictionary/blob/master/README.md">이곳</a>을 참고해주세요</li>
         </ol>
       </Modal>
     </div>
