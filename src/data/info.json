@@ -3,14 +3,41 @@
     "name": "최진우",
     "generation": 4,
     "profile_image": "https://avatars.githubusercontent.com/u/49791336?s=460&u=4799725fde2206ebbf4799b4180f003f08dde115&v=4",
-    "intro": "안녕하세요 대구소프트웨어고등학교 4기 최진우입니다.",
+    "intro": "꼬꼬마 개발자",
     "club": [
       "B1ND",
-      "두카미"
+      "DUCAMI"
     ],
     "website": "https://www.notion.so/wlswoo/Choi-Jinwoo-1d12bbc71f7f45e590ed199629372769",
     "blog": "http://wlswoo.tistory.com/",
     "github": "http://github.com/Choi-Jinwoo",
     "sns": ""
+  },
+  {
+    "name": "권순관",
+    "generation": 4,
+    "profile_image": "https://avatars.githubusercontent.com/u/48983361?s=460&u=4139ec6e3bbf60b90342b4e415bb8d4e5c3babbd&v=4",
+    "intro": "선반 위의 선배들만 알던 비법의 책을 찾을 때까지 ",
+    "club": [
+      "B1ND"
+    ],
+    "website": "https://soongwan.com/",
+    "blog": "https://www.linkedin.com/in/%EC%88%9C%EA%B4%80-%EA%B6%8C-6a945819a/",
+    "github": "http://github.com/SoonGwan",
+    "sns": ""
+  },
+  {
+    "name": "정성훈",
+    "generation": 4,
+    "profile_image": "https://user-images.githubusercontent.com/52942411/107211411-d9d90480-6a48-11eb-996d-e5c2228356bc.png",
+    "intro": "대소고 한다면 하는남자 한남",
+    "club": [
+      "SaiSiot",
+      "DUCAMI"
+    ],
+    "website": "",
+    "blog": "",
+    "github": "http://github.com/jsh0128",
+    "sns": "https://www.instagram.com/seongho._.on"
   }
 ]
