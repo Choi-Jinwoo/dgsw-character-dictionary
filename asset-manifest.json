@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dgsw-character-dictionary/static/css/main.f2f9a338.chunk.css",
-    "main.js": "/dgsw-character-dictionary/static/js/main.9c47569d.chunk.js",
-    "main.js.map": "/dgsw-character-dictionary/static/js/main.9c47569d.chunk.js.map",
+    "main.js": "/dgsw-character-dictionary/static/js/main.8061ccc2.chunk.js",
+    "main.js.map": "/dgsw-character-dictionary/static/js/main.8061ccc2.chunk.js.map",
     "runtime-main.js": "/dgsw-character-dictionary/static/js/runtime-main.a8c09771.js",
     "runtime-main.js.map": "/dgsw-character-dictionary/static/js/runtime-main.a8c09771.js.map",
     "static/js/2.919f9fa8.chunk.js": "/dgsw-character-dictionary/static/js/2.919f9fa8.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a8c09771.js",
     "static/js/2.919f9fa8.chunk.js",
     "static/css/main.f2f9a338.chunk.css",
-    "static/js/main.9c47569d.chunk.js"
+    "static/js/main.8061ccc2.chunk.js"
   ]
 }
