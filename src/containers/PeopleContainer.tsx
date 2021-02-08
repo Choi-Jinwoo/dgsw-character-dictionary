@@ -4,6 +4,7 @@ import React, { useCallback, useEffect, useState } from 'react';
 import { IPerson } from 'types/person';
 import info from 'data/info.json';
 import PersonList from 'components/PersonList/PersonList';
+import InfoBox from 'components/InfoBox/InfoBox';
 
 const PeopleContainer = () => {
   const [people, setPeople] = useState<IPerson[]>([]);
@@ -34,6 +35,7 @@ const PeopleContainer = () => {
 
   return (
     <div className='PeopleContainer'>
+      <InfoBox />
       <PersonList personCardElements={personCardElements} />
     </div>
   )
