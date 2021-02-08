@@ -39,5 +39,33 @@
     "blog": "",
     "github": "http://github.com/jsh0128",
     "sns": "https://www.instagram.com/seongho._.on"
+  },
+  {
+    "name": "김성헌",
+    "generation": 4,
+    "profile_image": "",
+    "intro": "대소고 꿀주먹",
+    "club": [
+      "B1ND",
+      "DUCAMI"
+    ],
+    "website": "",
+    "blog": "",
+    "github": "https://github.com/Seongheon03",
+    "sns": ""
+  },
+  {
+    "name": "김경훈",
+    "generation": 4,
+    "profile_image": "https://user-images.githubusercontent.com/48943501/107214576-6daccf80-6a4d-11eb-9a47-da2084898a94.jpg",
+    "intro": "Stay Hungry, Stay Foolish.",
+    "club": [
+      "B1ND",
+      "DUCAMI"
+    ],
+    "website": "https://devkyunghoon.tistory.com",
+    "blog": "https://blog.naver.com/kkh03kkh",
+    "github": "https://github.com/KyungHoon0126",
+    "sns": ""
   }
 ]
