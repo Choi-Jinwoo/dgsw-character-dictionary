@@ -122,5 +122,18 @@
     "blog": "https://velog.io/@yiyb0603",
     "github": "https://github.com/yiyb0603",
     "sns": "https://www.facebook.com/profile.php?id=100010933171210"
+  },
+  {
+    "name": "박진",
+    "generation": 4,
+    "profile_image": "",
+    "intro": "😃",
+    "club": [
+      "B1ND"
+    ],
+    "website": "",
+    "blog": "https://velog.io/@jini0318",
+    "github": "https://github.com/ParkJin0318",
+    "sns": ""
   }
 ]
