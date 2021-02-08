@@ -80,5 +80,20 @@
     "blog": "https://juyeop.tistory.com",
     "github": "https://github.com/Kim-Ju-Yeop",
     "sns": "https://www.instagram.com/juyeop03/"
+  },
+  {
+    "name": "김경원",
+    "generation": 4,
+    "profile_image": "",
+    "intro": "임베디드 최강자가 되기 위해 노력하는 중",
+    "club": [
+      "정보기술기능반",
+      "DUCAMI",
+      "SCB"
+    ],
+    "website": "",
+    "blog": "https://kimkyungwon-blog.tistory.com/",
+    "github": "https://github.com/KimKyungWon0519",
+    "sns": "https://www.instagram.com/kikiwon_03/"
   }
 ]
