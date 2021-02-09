@@ -40,9 +40,7 @@ const PersonCard = ({ person, clubElements, handleOpenURL }: PropType) => {
         <div className='PersonCard-ProfileWrapper-Profile'>
           <img className='PersonCard-ProfileWrapper-Profile-Image'
             src={profile_image !== null && profile_image.trim().length > 0 ? profile_image : Basic} alt="" />
-          <span className='PersonCard-ProfileWrapper-Profile-Name' style={{
-            color: name === '오하형' ? '#ff6f61' : '',
-          }}>{name}</span>
+          <span className='PersonCard-ProfileWrapper-Profile-Name'>{name}</span>
         </div>
 
         <span className='PersonCard-ProfileWrapper-Generation'>{generation}기</span>
@@ -77,9 +75,7 @@ const PersonCard = ({ person, clubElements, handleOpenURL }: PropType) => {
         </div>
       </div>
 
-      <div className='PersonCard-Intro' style={{
-        fontSize: name === '오하형' ? '36px' : undefined,
-      }} >
+      <div className='PersonCard-Intro'>
         {intro}
       </div>
     </div>
