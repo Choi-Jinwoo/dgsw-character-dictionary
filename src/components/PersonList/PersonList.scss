@@ -1,6 +1,7 @@
 .PersonList {
   width: 1660px;
   margin: 0 auto;
+  margin-bottom: 100px;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   row-gap: 20px;
