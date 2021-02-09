@@ -264,5 +264,18 @@
     "blog": "https://slog.website",
     "github": "https://github.com/Sh031224",
     "sns": "https://www.facebook.com/profile.php?id=100048700034135"
-  }
+  },
+  {
+    "name": "김태윤",
+    "generation": 3,
+    "profile_image": null,
+    "intro": "나는 실리콘밸리에 갈꺼야",
+    "club": [
+      "BlackCow"
+    ],
+    "website": "",
+    "blog": "https://roharui.github.io/",
+    "github": "https://github.com/Roharui",
+    "sns": ""
+  },
 ]
