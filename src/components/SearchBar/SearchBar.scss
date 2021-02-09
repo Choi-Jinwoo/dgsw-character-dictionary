@@ -1,0 +1,32 @@
+@import 'styles/colors.scss';
+
+.SearchBar {
+  width: 1660px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+
+  .SearchInput {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid $gray_a;
+    background-color: $gray_f;
+    border-radius: 8px;
+    padding: 8px;
+
+    input {
+      width: 200px;
+      font-size: 1.05rem;
+      border: none;
+      margin-left: 5px;
+
+      &:focus {
+        outline: none;
+      }
+    }
+  }
+
+}
