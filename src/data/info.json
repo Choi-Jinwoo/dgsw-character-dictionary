@@ -116,7 +116,8 @@
     "intro": "Whenever, Wherever, Whatever.",
     "club": [
       "B1ND",
-      "SCB"
+      "SCB",
+      "Danny"
     ],
     "website": "https://yiyb0603.github.io/my_portfolio",
     "blog": "https://velog.io/@yiyb0603",
@@ -212,5 +213,56 @@
     "blog": "",
     "github": "https://github.com/donghee0901",
     "sns": ""
+  },
+  {
+    "name": "오하형",
+    "generation": 4,
+    "profile_image": "https://user-images.githubusercontent.com/49791336/107351266-be83fd00-6b0d-11eb-9b59-760a4a7f9973.JPG",
+    "intro": "수능만점",
+    "club": [],
+    "website": "",
+    "blog": "",
+    "github": "",
+    "sns": ""
+  },
+  {
+    "name": "황현빈",
+    "generation": 5,
+    "profile_image": "https://avatars.githubusercontent.com/u/63246501?s=460&u=9f893cc57e3b04965c1ce218312eba97ca0de27a&v=4",
+    "intro": "La vie est belle😊",
+    "club": [
+      "B1ND"
+    ],
+    "website": "",
+    "blog": "https://hyeon1127.tistory.com/)",
+    "github": "https://github.com/HYE0N1127",
+    "sns": "https://www.instagram.com/h_biin1127__/"
+  },
+  {
+    "name": "양윤재",
+    "generation": 5,
+    "profile_image": "",
+    "intro": "나는 할 수 있다",
+    "club": [
+      "DUCAMI"
+    ],
+    "website": "",
+    "blog": "",
+    "github": "https://github.com/2004yyj",
+    "sns": "https://www.facebook.com/profile.php?id=100007922641078"
+  },
+  {
+    "name": "차승호",
+    "generation": 4,
+    "profile_image": "https://user-images.githubusercontent.com/51149996/107341696-a490ed00-6b02-11eb-9c24-507987f1cb4f.png",
+    "intro": "재밌게 😆",
+    "club": [
+      "SaiSiot",
+      "DUCAMI"
+    ],
+    "website": "",
+    "blog": "https://slog.website",
+    "github": "https://github.com/Sh031224",
+    "sns": "https://www.facebook.com/profile.php?id=100048700034135"
   }
 ]
