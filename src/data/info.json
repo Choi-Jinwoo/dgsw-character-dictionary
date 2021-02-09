@@ -212,5 +212,19 @@
     "blog": "",
     "github": "https://github.com/donghee0901",
     "sns": ""
+  },
+  {
+    "name": "차승호",
+    "generation": 4,
+    "profile_image": "https://user-images.githubusercontent.com/51149996/107341696-a490ed00-6b02-11eb-9c24-507987f1cb4f.png",
+    "intro": "재밌게 😆",
+    "club": [
+      "SaiSiot",
+      "DUCAMI"
+    ],
+    "website": "",
+    "blog": "https://slog.website",
+    "github": "https://github.com/Sh031224",
+    "sns": "https://www.facebook.com/profile.php?id=100048700034135"
   }
 ]
