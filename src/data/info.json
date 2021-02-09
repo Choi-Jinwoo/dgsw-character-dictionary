@@ -212,5 +212,20 @@
     "blog": "",
     "github": "https://github.com/donghee0901",
     "sns": ""
+  },
+  {
+    "name": "김종우",
+    "generation": 4,
+    "profile_image": "https://avatars.githubusercontent.com/u/55072002?s=400&u=8f6161fbe08d279defa5bb2b43742dd4a1dd07d2&v=4",
+    "intro": "종우짱짱맨",
+    "club": [
+      "Danny",
+      "Ducami",
+      "히말라야"
+    ],
+    "website": null,
+    "blog": "https://blog.naver.com/kimjongwoo2003",
+    "github": "https://github.com/kimjw2003",
+    "sns": "https://www.instagram.com/ring_rain03/"
   }
 ]
