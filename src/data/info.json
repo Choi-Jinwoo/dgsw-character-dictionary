@@ -146,5 +146,71 @@
     "blog": "https://blog.naver.com/raho1879",
     "github": "https://github.com/LandmineSoldier",
     "sns": "https://www.facebook.com/profile.php?id=100014634405124"
+  },
+  {
+    "name": "신중빈",
+    "generation": 5,
+    "profile_image": "",
+    "intro": "안녕하세요오",
+    "club": [
+      "B1ND"
+    ],
+    "website": null,
+    "blog": null,
+    "github": "https://github.com/krung2",
+    "sns": "https://www.instagram.com/joongbin4337/"
+  },
+  {
+    "name": "박상아",
+    "generation": 5,
+    "profile_image": "https://avatars.githubusercontent.com/u/63035523?s=400&u=aa83558b832c97c4ae62d40ebecb3ef0106232d4&v=4",
+    "intro": "simple is best",
+    "club": [
+      "B1ND"
+    ],
+    "website": "",
+    "blog": "https://ivory0312.tistory.com/",
+    "github": "https://github.com/ivory0312",
+    "sns": ""
+  },
+  {
+    "name": "남규석",
+    "generation": 4,
+    "profile_image": "https://avatars.githubusercontent.com/u/52943549?s=400&u=d6c7426763a0bda36b9b169e5ca53971fa25fe04&v=4",
+    "intro": "별 될 아이",
+    "club": [
+      "Danny"
+    ],
+    "website": "",
+    "blog": "https://velog.io/@nkstar00",
+    "github": "http://github.com/nks0614",
+    "sns": "https://www.facebook.com/profile.php?id=100012233264451"
+  },
+  {
+    "name": "박영훈",
+    "generation": 4,
+    "profile_image": "",
+    "intro": "영훈 프린스",
+    "club": [
+      "Danny",
+      "세븐랩스"
+    ],
+    "website": "",
+    "blog": "https://blog.naver.com/yh030413",
+    "github": "",
+    "sns": ""
+  },
+  {
+    "name": "김동희",
+    "generation": 4,
+    "profile_image": "",
+    "intro": "임베 따까리",
+    "club": [
+      "Danny"
+    ],
+    "website": "",
+    "blog": "",
+    "github": "https://github.com/donghee0901",
+    "sns": ""
   }
 ]
