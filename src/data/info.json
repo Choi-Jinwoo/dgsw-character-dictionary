@@ -135,5 +135,16 @@
     "blog": "https://velog.io/@jini0318",
     "github": "https://github.com/ParkJin0318",
     "sns": ""
+  },
+  {
+    "name": "이호경",
+    "generation": 5,
+    "profile_image": "https://scontent-ssn1-1.xx.fbcdn.net/v/t1.0-9/140548726_1051124378718699_4953283222153260992_n.jpg?_nc_cat=110&ccb=2&_nc_sid=09cbfe&_nc_ohc=EHTbTyE78eAAX8YZ1Ry&_nc_ht=scontent-ssn1-1.xx&oh=6b1b54528d3ed233649f747605a69433&oe=6047AF39",
+    "intro": "여기에 설명 입력",
+    "club": [],
+    "website": null,
+    "blog": "https://blog.naver.com/raho1879",
+    "github": "https://github.com/LandmineSoldier",
+    "sns": "https://www.facebook.com/profile.php?id=100014634405124"
   }
 ]
