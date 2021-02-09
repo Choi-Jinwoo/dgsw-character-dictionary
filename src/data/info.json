@@ -138,6 +138,17 @@
     "sns": ""
   },
   {
+    "name": "오하형",
+    "generation": 4,
+    "profile_image": "https://user-images.githubusercontent.com/49791336/107351266-be83fd00-6b0d-11eb-9b59-760a4a7f9973.JPG",
+    "intro": "수능만점",
+    "club": [],
+    "website": "",
+    "blog": "",
+    "github": "",
+    "sns": ""
+  },
+  {
     "name": "이호경",
     "generation": 5,
     "profile_image": "https://scontent-ssn1-1.xx.fbcdn.net/v/t1.0-9/140548726_1051124378718699_4953283222153260992_n.jpg?_nc_cat=110&ccb=2&_nc_sid=09cbfe&_nc_ohc=EHTbTyE78eAAX8YZ1Ry&_nc_ht=scontent-ssn1-1.xx&oh=6b1b54528d3ed233649f747605a69433&oe=6047AF39",
@@ -215,17 +226,6 @@
     "sns": ""
   },
   {
-    "name": "오하형",
-    "generation": 4,
-    "profile_image": "https://user-images.githubusercontent.com/49791336/107351266-be83fd00-6b0d-11eb-9b59-760a4a7f9973.JPG",
-    "intro": "수능만점",
-    "club": [],
-    "website": "",
-    "blog": "",
-    "github": "",
-    "sns": ""
-  },
-  {
     "name": "황현빈",
     "generation": 5,
     "profile_image": "https://avatars.githubusercontent.com/u/63246501?s=460&u=9f893cc57e3b04965c1ce218312eba97ca0de27a&v=4",
@@ -279,5 +279,18 @@
     "blog": "https://blog.naver.com/kimjongwoo2003",
     "github": "https://github.com/kimjw2003",
     "sns": "https://www.instagram.com/ring_rain03/"
+  },
+  {
+    "name": "김혜선",
+    "generation": 4,
+    "profile_image": null,
+    "intro": "배울 준비가 되어있는 개발자",
+    "club": [
+      "B1ND"
+    ],
+    "website": "https://www.notion.so/Hyeseon-b630c6802c624ec18b6cb63cb2488575",
+    "blog": "https://sunnytdy.tistory.com/m",
+    "github": "https://github.com/hyess210",
+    "sns": "https://www.instagram.com/sunday.51/"
   }
 ]
