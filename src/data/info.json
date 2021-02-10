@@ -294,5 +294,19 @@
     "blog": "https://roharui.github.io/",
     "github": "https://github.com/Roharui",
     "sns": "https://www.facebook.com/profile.php?id=100011379696299"
+  },
+  {
+    "name": "김영재",
+    "generation": 4,
+    "profile_image": "https://avatars.githubusercontent.com/u/50559538",
+    "intro": "KIM",
+    "club": [
+      "Danny",
+      "DUCAMI"
+    ],
+    "website": "https://www.notion.so/Kim-youngjae-17384dc2b04a4122b85f6515a4cfa1a2",
+    "blog": "",
+    "github": "https://github.com/Player0002",
+    "sns": ""
   }
 ]
