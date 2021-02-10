@@ -308,5 +308,18 @@
     "blog": "",
     "github": "https://github.com/Player0002",
     "sns": ""
+  },
+  {
+    "name": "김대용",
+    "generation": 1,
+    "profile_image": "",
+    "intro": "잡다하게 개발하는 김대용입니다. 이젠 백엔드를 해볼까 합니다.",
+    "club": [
+      "B1ND"
+    ],
+    "website": "",
+    "blog": "",
+    "github": "https://github.com/oakkim",
+    "sns": "https://www.facebook.com/profile.php?id=100010565599487"
   }
 ]
