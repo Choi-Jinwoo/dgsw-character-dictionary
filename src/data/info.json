@@ -321,5 +321,18 @@
     "blog": "",
     "github": "https://github.com/oakkim",
     "sns": "https://www.facebook.com/profile.php?id=100010565599487"
+  },
+  {
+  "name": "홍준혁",
+  "generation": 5,
+  "profile_image": "https://user-images.githubusercontent.com/48292190/107596848-5859c000-6c5c-11eb-9698-e70cb3f8fac7.jpeg",
+  "intro": "보기좋은 웹이 쓰기에도 좋다",
+  "club": [
+    "B1ND"
+  ],
+  "website": "https://hong-junhyeok.github.io/introduce_me/",
+  "blog": "https://hong-jh.tistory.com/",
+  "github": "https://github.com/Hong-JunHyeok",
+  "sns": "https://www.facebook.com/programmingHong"
   }
 ]
