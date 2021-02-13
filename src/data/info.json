@@ -334,5 +334,18 @@
     "blog": "https://hong-jh.tistory.com/",
     "github": "https://github.com/Hong-JunHyeok",
     "sns": "https://www.facebook.com/programmingHong"
+  },
+  {
+    "name": "김태빈",
+    "generation": 3,
+    "profile_image": "",
+    "intro": "젊은이들의 열정과 젊음을 배우고 싶읍니다...^^*",
+    "club": [
+      ""
+    ],
+    "website": "",
+    "blog": "https://greenkick.tistory.com/",
+    "github": "https://github.com/KimTaebin-ai",
+    "sns": ""
   }
 ]
