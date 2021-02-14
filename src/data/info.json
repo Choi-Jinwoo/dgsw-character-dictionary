@@ -334,5 +334,30 @@
     "blog": "https://hong-jh.tistory.com/",
     "github": "https://github.com/Hong-JunHyeok",
     "sns": "https://www.facebook.com/programmingHong"
+  },
+  {
+    "name": "김태빈",
+    "generation": 3,
+    "profile_image": "",
+    "intro": "젊은이들의 열정과 젊음을 배우고 싶읍니다...^^*",
+    "club": [],
+    "website": "",
+    "blog": "https://greenkick.tistory.com/",
+    "github": "https://github.com/KimTaebin-ai",
+    "sns": ""
+  },
+  {
+    "name": "이원제",
+    "generation": 4,
+    "profile_image": "https://scontent-gmp1-1.xx.fbcdn.net/v/t1.0-9/68795684_221293175516696_5923490187358240768_o.jpg?_nc_cat=106&ccb=3&_nc_sid=09cbfe&_nc_eui2=AeHuJ07VjelzLbQZgccxzH_9d_2lLPcZnK53_aUs9xmcruAl6dXFF6oE2C_20AsXfqPYwa30A84tIUQ5pRyNSAVt&_nc_ohc=HCsJZyWFzocAX_wB5rb&_nc_ht=scontent-gmp1-1.xx&oh=d65b44604147898a7a53b3e26144b6bc&oe=604EEBA1",
+    "intro": "천천히 가되 쉬지 않는사람",
+    "club": [
+      "FLUT",
+      "MIJUNG"
+    ],
+    "website": "",
+    "blog": "https://blog.naver.com/kitti0418",
+    "github": "https://github.com/leewonje418",
+    "sns": "https://www.facebook.com/profile.php?id=100029080452362"
   }
 ]
