@@ -359,5 +359,18 @@
     "blog": "https://blog.naver.com/kitti0418",
     "github": "https://github.com/leewonje418",
     "sns": "https://www.facebook.com/profile.php?id=100029080452362"
+  },
+  {
+    "name": "조민서",
+    "generation": "4",
+    "profile_image": null,
+    "intro": "android & flutter developer",
+    "club": [
+      "DUCAMI"
+    ],
+    "website": "",
+    "blog": "https://velog.io/@minseo",
+    "github": "https://github.com/JoMinSeo",
+    "sns": "https://www.instagram.com/se_o_03/"
   }
 ]
