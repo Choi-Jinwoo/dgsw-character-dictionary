@@ -1,4 +1,5 @@
 @import 'styles/colors.scss';
+@import 'styles/mixin.scss';
 
 .Title {
   min-width: 1660px;
@@ -14,6 +15,15 @@
     align-items: center;
     justify-content: flex-start;
     width: 70%;
+
+    @include mobile {
+      flex-direction: column;
+      justify-content: center;
+
+      p {
+        display: none;
+      }
+    }
 
     h2, p {
       margin: 0;
