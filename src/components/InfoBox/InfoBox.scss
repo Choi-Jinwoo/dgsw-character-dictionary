@@ -1,5 +1,11 @@
+@import 'styles/mixin.scss';
+
 .InfoBox {
   .AiFillInfoCircle {
     cursor: pointer;
+  }
+
+  @include mobile {
+    display: none;
   }
 }

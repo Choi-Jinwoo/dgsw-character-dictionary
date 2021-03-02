@@ -1,3 +1,5 @@
+@import 'styles/mixin.scss';
+
 .PersonList {
   width: 1660px;
   margin: 0 auto;
@@ -7,4 +9,11 @@
   row-gap: 20px;
   column-gap: 20px;
   justify-items: center;
+
+  @include mobile {
+    width: 90%;
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 10px;
+    column-gap: 10px;
+  }
 }

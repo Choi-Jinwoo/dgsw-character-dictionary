@@ -16,15 +16,6 @@
     justify-content: flex-start;
     width: 70%;
 
-    @include mobile {
-      flex-direction: column;
-      justify-content: center;
-
-      p {
-        display: none;
-      }
-    }
-
     h2, p {
       margin: 0;
       padding: 0 10px;
@@ -38,5 +29,25 @@
     p {
       font-size: 14px;
     }
+
   }
+
+    @include mobile {
+      min-width: 100%;
+      padding: 20px 0;
+
+      &-Content {
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+
+        h2 {
+          font-size: 30px;
+        }
+
+        p {
+          display: none;
+        }
+      }
+    }
 }

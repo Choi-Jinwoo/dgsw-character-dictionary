@@ -1,4 +1,5 @@
 @import 'styles/colors.scss';
+@import 'styles/mixin.scss';
 
 .SearchBar {
   width: 1660px;
@@ -30,4 +31,15 @@
     }
   }
 
+  @include mobile {
+    width: 90%;
+    justify-content: center;
+    position: fixed;
+    left: 5%;
+    bottom: 10px;
+
+    .SearchInput {
+      width: 80%;
+    }
+  }
 }
